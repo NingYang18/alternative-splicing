@@ -1,0 +1,32 @@
+track ATAC-seq of primed hESCs
+bigDataUrl wt.bw
+shortLabel ATAC-seq of primed hESCs 
+longLabel ATAC-seq of primed hESCs
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 255,0,0
+
+track ATAC-seq of primed hESCs overexpressing primed-specific KIAA1522
+bigDataUrl primed.bw
+shortLabel ATAC-seq of primed hESCs overexpressing primed-specific KIAA1522
+longLabel ATAC-seq of primed hESCs overexpressing primed-specific KIAA1522
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 255,0,0
+
+track ATAC-seq of primed hESCs overexpressing naive-specific KIAA1522
+bigDataUrl naive.bw
+shortLabel ATAC-seq of primed hESCs overexpressing naive-specific KIAA1522 
+longLabel ATAC-seq of primed hESCs overexpressing naive-specific KIAA1522
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 255,0,0
