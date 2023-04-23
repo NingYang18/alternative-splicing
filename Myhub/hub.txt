@@ -1,6 +1,0 @@
-hub hESCs_ATAC-seq
-shortLabel ATAC-seq of different hESCs  
-longLabel ATAC-seq of primed hESCs and primed hESCs overexpressing different KIAA1522 isoforms  
-genomesFile genomes.txt   
-email fenggh@ioz.ac.cn    
-descriptionUrl description.txt
